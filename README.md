@@ -1,4 +1,4 @@
-# tp-securite-systemes# 🛡️ TP Sécurité des Systèmes — Administration & Durcissement Windows / Linux
+🛡️ TP Sécurité des Systèmes — Administration & Durcissement Windows / Linux
 
 Travaux pratiques réalisés dans le cadre de l'UE **Cybersécurité et Cryptographie (CSE 1304)** — ISI Dakar.
 Objectif du carnet : apprendre à **administrer et sécuriser** un poste Windows et un serveur Linux, de la cartographie initiale jusqu'à la supervision centralisée.
